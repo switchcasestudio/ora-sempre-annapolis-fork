@@ -28,3 +28,4 @@ yarn-error.log*
 
 src/assets/videos/hero_video.mov
 .netlify
+dist
